@@ -16,7 +16,7 @@ type: application
 version: "0.26.0"
 
 # renovate: datasource=github-releases depName=cloudnative-pg/cloudnative-pg
-appVersion: v1.28.1
+appVersion: v1.29.0
 
 keywords:
   - operator
